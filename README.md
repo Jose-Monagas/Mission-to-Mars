@@ -1,1 +1,2 @@
 # Mission-to-Mars
+The purpose of this project was to create a web app using Flask and MongoDB. We have scraped data from several websites using Splinter and Beautifulsoup and created an app that showcases live data from Mars. 
